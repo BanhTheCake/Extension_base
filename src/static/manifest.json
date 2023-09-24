@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "manifest_version": 3,
+    "version": "1.0",
+    "host_permissions": [],
+    "content_scripts": [
+        {
+            "matches": [],
+            "js": ["contentScript.js"]
+        }
+    ]
+}
